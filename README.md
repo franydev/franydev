@@ -1,22 +1,19 @@
 # franyDev
 
-## Scripter, Discord Bot Developer.
-
-- Contributor @ Reality Creations
 - Developer @ CreepySins MaD
-- Developer @ RAMPAGE North
-- Programming Coordinator @vq9o MaD
+- Chief Development Officer @ RAMPAGE Interactive
 - Technical Director @ Isometric Puzzles
-- Software Engineer @ Brickverse
+- Chief Technology Officer @ Brickverse
 - Developer @ RoSource
 
 ## Programming Languages
-- [X] LUA
-- [X] JavaScript
-- [ ] C
-- [X] C++
-- [X] C#
-- [X] Assembly x86 (Intel)
-- [X] PHP
-- [X] TypeScript
-- [X] Python
+- LUA
+- JavaScript
+- C
+- C++
+- C#
+- Assembly x86 (Intel)
+- PHP
+- TypeScript
+- Python
+- Some Rust
