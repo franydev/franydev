@@ -3,7 +3,6 @@
 - Developer @ CreepySins MaD
 - Chief Development Officer @ RAMPAGE Interactive
 - Technical Director @ Isometric Puzzles
-- Chief Technology Officer @ Brickverse
 - Developer @ RoSource
 
 ## Programming Languages
